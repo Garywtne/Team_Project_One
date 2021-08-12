@@ -2,6 +2,12 @@
 ![Title Image](readme_images/title.jpg)
 
 ### Contents
+1. Dataset
+2. Explanation
+3. Examplot plots
+4. Dependencies Required
+5. How to view / run the code
+6. Which Jupyter notebooks
 
 
 ### Choosing a dataset
@@ -18,7 +24,7 @@ We decided our client question would be **"which factors contribute to accident 
 ### Hypothesis 3: Higher speed limit increases the number of accidents
 ### Hypothesis 4: There are more accidents when the weather conditions are bad
 
-For each hypotheses we created a number of visulisations to display the data in an easier to analyse format which helped us understand the information required.
+For each hypotheses we created a number of visualisations to display the data in an easier to analyse format which helped us understand the information required.
 
 ### Example Plots
 
@@ -31,9 +37,12 @@ In order to run the files you will need to install the following packages
 * matplotlib
 * scipy
 * jupyter
-* all.csv (accidents from 2010-2016) - link: 
 
-### How to view the code
+**Add this file into your local cloned repository** It has not been included in the repository due to the large file size.
+
+all.csv (accidents from 2010-2016) - link: 
+
+### How to view / run the code
 The work was completed primarily using Jupyter Notebooks and the modules listed in the Dependencies section.
 
 * Clone the repository and open the Jupyter Notebook files and run the cells in order.
@@ -41,7 +50,10 @@ The work was completed primarily using Jupyter Notebooks and the modules listed 
 The Jupyter notebook files have comments in the code and Markdown cells beneath each step explaining what was done.
 
 
-### How to run the notebooks
+### Which Jupyter Notebooks
+* notebook 1.ipynb
+* notebook 2.ipynb
+* notebook 3.ipynb
 
 ### Where the plot images are stored
 
