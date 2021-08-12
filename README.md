@@ -24,6 +24,22 @@ For each hypotheses we created a number of visulisations to display the data in 
 
 
 ### Dependencies Required
+In order to run the files you will need to install the following packages
+* gmaps
+* pandas
+* seaborn
+* matplotlib
+* scipy
+* jupyter
+* all.csv (accidents from 2010-2016) - link: 
+
+### How to view the code
+The work was completed primarily using Jupyter Notebooks and the modules listed in the Dependencies section.
+
+* Clone the repository and open the Jupyter Notebook files and run the cells in order.
+
+The Jupyter notebook files have comments in the code and Markdown cells beneath each step explaining what was done.
+
 
 ### How to run the notebooks
 
@@ -33,12 +49,11 @@ For each hypotheses we created a number of visulisations to display the data in 
 
 
 
-### Credits
-Gary W
-Jessica Uppal
-Serdar B
-Arshad Sheikh
+### Credits / Collaborators
+Gary W\
+Jessica Uppal\
+Serdar B\
+Arshad Sheikh\
 Abdurrahman Raja
-
 
 Add Social badges?
