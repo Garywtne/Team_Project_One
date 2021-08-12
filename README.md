@@ -5,7 +5,7 @@
 
 ### Choosing a dataset
 Utilising the UK Road Safety: Traffic Accidents and Vehicles
-Detailed dataset of road accidents and involved vehicles in the UK (2005-2017) we set out by forming 4 hypotheses so we could target the data relevant to our hypotheses and attemp to turn that raw data in meaningful information.
+Detailed dataset of road accidents and involved vehicles in the UK (2005-2017) we set out by forming 4 hypotheses so we could target the data relevant to our hypotheses and attempt to turn that raw data in to **meaningful information**.
 
 ### Hypothesis 1: Younger drivers are involved in more accidents
 ### Hypothesis 2: Driving on a weekday has no affect on the number of accidents.
