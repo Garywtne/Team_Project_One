@@ -22,12 +22,12 @@ This is a team based project that explored a traffic accident data set.
 
 We used the [UK Road Safety: Traffic Accidents and Vehicles](https://www.kaggle.com/tsiaras/uk-road-safety-accidents-and-vehicles)\
 Detailed dataset of road accidents and involved vehicles in the UK (2005-2017).\
-Availble from [Kaggle.com](https://www.kaggle.com)
+Available from [Kaggle.com](https://www.kaggle.com)
 
 There are 2 CSV files in this data set. Both CSV files were merged into a single dataframe. The resulting data file extremely large so a decision was made to focus on Years 2010-2016. This data was filtered and placed into a New CSV which is the main data used for all the investigation, analysis and plots.
 
 **Data Limitations**
-It must be note that the data was limited in scope. Therefore, despite some interesting findings, the plots extracted from the data although **"true"**, do not **"tell the entire story".**
+\It must be noted that the data was limited in scope. Therefore, despite some interesting findings, the plots extracted from the data although **"true"**, do not **"tell the entire story".**
 
 
 ## <a id="project-header"></a>Project Outline
@@ -44,7 +44,8 @@ For each hypotheses we created a number of visualisations to display the data in
 ## <a id="example-header"></a>Example Plots
 Here are 2 examples plots we created from the data.
 
-INSERT PLOTS HERE
+![heatmap](readme_images/accidents_england.png)
+![seaborn_chart](readme_images/VM.png)
 
 The plots can be found in the images folder after running the code in the Notebook files that are in the root directory.
 
@@ -72,10 +73,11 @@ In order to run the files you will need to install the following packages.
 
 **Other Required Files:**
 
-**Add the files into your local cloned repository!** 
+**Add the below 2 files into your local cloned repository!** 
 
-* [all.csv](https://drive.google.com/file/d/1ES10z-PFW_QcRHwZx63NA42c2y1LmVPS/view?usp=sharing) (accidents from 2010-2016) - Download Here: - File was not included in the repository due to the large file size.
+* [all.csv - Click to Download](https://drive.google.com/file/d/1ES10z-PFW_QcRHwZx63NA42c2y1LmVPS/view?usp=sharing) (accidents from 2010-2016) - File was not included in the repository due to the large file size.
 
+The all.CSV must be placed in the "/Resources" directory.
 
 **Gmaps API Key requirement**
 
@@ -84,19 +86,21 @@ For gmaps you will also need an API key from the [Google Maps Platform](https://
 1. [config.py](https://drive.google.com/file/d/1dQNAoCH0c7C_d5NYVAebVbOevwE1jWqN/view?usp=sharing) Download the file
 
 2. Open the file in a text editor or VS code and change "YOUR API KEY HERE" to your API key from the Google Maps API.
-![config](readme_images/api_key.png)
+![api](readme_images/api_key.png)
 
 3. The config.py file should be stored in your local repository root folder.
 ![config](readme_images/config.png)
-
- 
 
 
 ## <a id="how-header"></a>How to View / Run the Code
 
 The work was completed primarily using Jupyter Notebooks and the modules listed in the Dependencies section.
 
-* Clone the repository and open the Jupyter Notebook files and run the cells in order.
+1. Clone the repository
+
+2. Complete steps in the [Dependencies and Setup Required](#dependencies-header) section above.
+
+3. Open any of the Jupyter Notebook files (.ipynb) in the root directory and run the cells in order.
 
 The Jupyter notebook files have comments in the code and Markdown cells beneath each step explaining what was done.
 
@@ -111,8 +115,8 @@ The Jupyter notebook files have comments in the code and Markdown cells beneath 
 
 ## <a id="team-header"></a>Credits / Collaborators / Team
 
-Gary W\
-Jessica Uppal\
-Serdar B\
-Arshad Sheikh\
-Abdurrahman Raja
+* Gary W
+* Jessica Uppal
+* Serdar B
+* Arshad Sheikh
+* Abdurrahman Raja
