@@ -30,10 +30,10 @@ There are 2 CSV files in this data set. Both CSV files were merged into a single
 
 We decided our client question would be **"which factors contribute to accident risk?"** and used this question to formulate 4 hypotheses and used these to target the data relevant to our hypotheses and attempt to turn that raw data in to **meaningful information**.
 
-### Hypothesis 1: Younger drivers are involved in more accidents
-### Hypothesis 2: Driving on a weekday has no affect on the number of accidents.
-### Hypothesis 3: Higher speed limit increases the number of accidents
-### Hypothesis 4: There are more accidents when the weather conditions are bad
+* **Hypothesis 1: Younger drivers are involved in more accidents**
+* **Hypothesis 2: Driving on a weekday has no affect on the number of accidents**
+* **Hypothesis 3: Higher speed limit increases the number of accidents**
+* **Hypothesis 4: There are more accidents when the weather conditions are bad**
 
 For each hypotheses we created a number of visualisations to display the data in an easier to analyse format which helped us understand the information required.
 
