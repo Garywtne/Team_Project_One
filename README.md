@@ -33,12 +33,14 @@ It must be noted that the data was limited in scope. Therefore, despite some int
 
 ## <a id="project-header"></a>Project Outline
 
-We decided our client question would be **"which factors contribute to accident risk?"** and used this question to formulate 4 hypotheses and used these to target the data relevant to our hypotheses and attempt to turn that raw data in to **meaningful information**.
+We decided our client question would be **"which factors contribute to accident risk?"** and used this question to formulate some hypotheses and used these to target the data relevant to our hypotheses and attempt to turn that raw data in to **meaningful information**.
 
-* **Hypothesis 1: Younger drivers are involved in more accidents**
-* **Hypothesis 2: Driving on a weekday has no affect on the number of accidents**
-* **Hypothesis 3: Higher speed limit increases the number of accidents**
-* **Hypothesis 4: There are more accidents when the weather conditions are bad**
+* **Hypothesis 1: Greater volume of traffic increases the number of accidents**
+* **Hypothesis 2: Urban areas have a greater number of accidents than rural areas**
+* **Hypothesis 3: The time or day of the week does not affect the number of accidents**
+* **Hypothesis 4: Speed limits do not influence the number of accidents**
+* **Hypothesis 5: Biological factors like gender and age do not influence the number of accidents**
+* **Hypothesis 6: Location on the road or vehicle manoeuvre does not influence the number of accidents**
 
 For each hypotheses we created a number of [visualisations](#example-header) to display the data in an easier to analyse format which helped us understand the information required.
 
