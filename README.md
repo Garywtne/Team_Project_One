@@ -95,6 +95,8 @@ For gmaps you will also need an API key from the [Google Maps Platform](https://
 
 ## <a id="how-header"></a>How to View / Run the Code
 
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+
 The work was completed primarily using Jupyter Notebooks and the modules listed in the Dependencies section.
 
 1. Clone the repository
