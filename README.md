@@ -11,7 +11,7 @@ This is a team based project that explored a traffic accident data set.
 * [Project Outline](#project-header)
 * [Example Plots](#example-header)
 * [Findings Reports and Presentation](#reports-header)
-* [Dependencies Required](#dependencies-header)
+* [Dependencies and Setup Required](#dependencies-header)
 * [How to View / Run the code](#how-header)
 * [Which Jupyter Notebooks](#which-header)
 * [Team](#team-header)
@@ -20,11 +20,14 @@ This is a team based project that explored a traffic accident data set.
 
 ## <a id="dataset-header"></a>Dataset
 
-We used the UK Road Safety: Traffic Accidents and Vehicles\
+We used the [UK Road Safety: Traffic Accidents and Vehicles](https://www.kaggle.com/tsiaras/uk-road-safety-accidents-and-vehicles)\
 Detailed dataset of road accidents and involved vehicles in the UK (2005-2017).\
-Availble from Kaggle.com
+Availble from [Kaggle.com](https://www.kaggle.com)
 
 There are 2 CSV files in this data set. Both CSV files were merged into a single dataframe. The resulting data file extremely large so a decision was made to focus on Years 2010-2016. This data was filtered and placed into a New CSV which is the main data used for all the investigation, analysis and plots.
+
+**Data Limitations**
+It must be note that the data was limited in scope. Therefore, despite some interesting findings, the plots extracted from the data although **"true"**, do not **"tell the entire story".**
 
 
 ## <a id="project-header"></a>Project Outline
@@ -43,7 +46,7 @@ Here are 2 examples plots we created from the data.
 
 INSERT PLOTS HERE
 
-The plots can be found in the images folder after running the code.
+The plots can be found in the images folder after running the code in the Notebook files that are in the root directory.
 
 
 ## <a id="reports-header"></a>Findings Reports and Presentation
@@ -56,7 +59,7 @@ There are 3 files:
 * 02_Presentation.pdf
 * 02_Traffic Accidents Report.pdf
 
-## <a id="dependencies-header"></a>Dependencies Required
+## <a id="dependencies-header"></a>Dependencies and Setup Required
 
 In order to run the files you will need to install the following packages.
 
@@ -71,18 +74,22 @@ In order to run the files you will need to install the following packages.
 
 **Add the files into your local cloned repository!** 
 
-all.csv (accidents from 2010-2016) - Download Here: - File was not included in the repository due to the large file size.
+* [all.csv](https://drive.google.com/file/d/1ES10z-PFW_QcRHwZx63NA42c2y1LmVPS/view?usp=sharing) (accidents from 2010-2016) - Download Here: - File was not included in the repository due to the large file size.
 
 
 **Gmaps API Key requirement**
 
-For gmaps you will also need an API key from the Google Maps Platform.
+For gmaps you will also need an API key from the [Google Maps Platform](https://developers.google.com/maps). Please visit the Google maps platform to set up an API key if you do not already have one.
 
-The key should be stored in your local repository root folder in a config.py file.
+1. [config.py]() Download the file
+
+2. Open the file in a text editor or VS code and change "YOUR API KEY HERE" to your API key from the Google Maps API.
+![config](readme_images/api_key.png)
+
+3. The config.py file should be stored in your local repository root folder.
 ![config](readme_images/config.png)
 
-The file should contain a variable g_key which contains your Google Maps API key.
-![config](readme_images/api_key.png)
+ 
 
 
 ## <a id="how-header"></a>How to View / Run the Code
