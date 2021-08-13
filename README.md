@@ -37,14 +37,14 @@ We decided our client question would be **"which factors contribute to accident 
 
 For each hypotheses we created a number of visualisations to display the data in an easier to analyse format which helped us understand the information required.
 
-### Example Plots
+### <a id="example-header"></a>Example Plots
 Here are 2 examples plots we created from the data.
 
 INSERT PLOTS HERE
 
 The plots can be found in the images folder after running the code.
 
-### Dependencies Required
+### <a id="dependencies-header"></a>Dependencies Required
 
 In order to run the files you will need to install the following packages
 
@@ -73,7 +73,7 @@ The key should be stored in your local repository root folder in a config.py fil
 The file should contain a variable g_key which contains your Google Maps API key.
 
 
-### How to View / Run the Code
+### <a id="how-header"></a>How to View / Run the Code
 
 The work was completed primarily using Jupyter Notebooks and the modules listed in the Dependencies section.
 
@@ -82,7 +82,7 @@ The work was completed primarily using Jupyter Notebooks and the modules listed 
 The Jupyter notebook files have comments in the code and Markdown cells beneath each step explaining what was done.
 
 
-### Which Jupyter Notebooks
+### <a id="which-header"></a>Which Jupyter Notebooks
 
 * notebook 1.ipynb
 * notebook 2.ipynb
@@ -90,7 +90,7 @@ The Jupyter notebook files have comments in the code and Markdown cells beneath 
 
 
 
-### Credits / Collaborators
+### <a id="team-header"></a>Credits / Collaborators / Team
 
 Gary W\
 Jessica Uppal\
