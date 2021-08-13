@@ -9,7 +9,7 @@ This is a team based project that explored a traffic accident data set.
 * [Dataset](#dataset-header)
 * [Project Outline](#project-header)
 * [Example Plots](#example-header)
-* [Reports and Presentation](#reports-header)
+* [Findings Reports and Presentation](#reports-header)
 * [Dependencies Required](#dependencies-header)
 * [How to View / Run the code](#how-header)
 * [Which Jupyter Notebooks](#which-header)
@@ -43,6 +43,17 @@ Here are 2 examples plots we created from the data.
 INSERT PLOTS HERE
 
 The plots can be found in the images folder after running the code.
+
+
+### <a id="reports-header"></a>Findings Reports and Presentation
+
+The findings of this project can be found in the "/Presentation" directory.
+
+There are 3 files:
+
+* 01_Project_scope_notes.pdf
+* 02_Presentation.pdf
+* 02_Traffic Accidents Report.pdf
 
 ### <a id="dependencies-header"></a>Dependencies Required
 
