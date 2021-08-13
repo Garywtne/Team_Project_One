@@ -31,12 +31,12 @@ For each hypotheses we created a number of visualisations to display the data in
 
 ### Dependencies Required
 In order to run the files you will need to install the following packages
-* gmaps 'pip install gmaps'
-* pandas 
-* seaborn
-* matplotlib
-* scipy
-* jupyter
+* gmaps `pip install gmaps`
+* pandas `pip install pandas`
+* seaborn `pip install seaborn`
+* matplotlib `pip install matplotlib`
+* scipy `pip install scipy`
+* jupyter notebook `pip install notebook`
 
 **Add this file into your local cloned repository** It has not been included in the repository due to the large file size.
 
@@ -47,6 +47,8 @@ all.csv (accidents from 2010-2016) - link:
 For gmaps you will also need an API key from the Google Maps Platform.
 
 The key should be stored in your local repository root folder in a config.py file.
+
+The file should contain a variable g_key which contains your Google Maps API key.
 
 
 ### How to view / run the code
