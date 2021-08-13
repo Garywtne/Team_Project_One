@@ -43,12 +43,11 @@ We decided our client question would be **"which factors contribute to accident 
 For each hypotheses we created a number of [visualisations](#example-header) to display the data in an easier to analyse format which helped us understand the information required.
 
 ## <a id="example-header"></a>Example Plots
-Here are 2 examples plots we created from the data.
+Here are 2 examples plots we created from the data.\
+The plots can be found in the [/Images](/Images) folder after running the code in the Notebook files that are in the root directory.
 
 <img src="readme_images/accidents_england.png" width="50%" height="50%"></img>
 ![seaborn_chart](readme_images/VM.png)
-
-The plots can be found in the [/Images](/Images) folder after running the code in the Notebook files that are in the root directory.
 
 
 ## <a id="reports-header"></a>Findings Reports and Presentation
@@ -79,6 +78,7 @@ In order to run the files you will need to install the following packages.
 * **File 1:** [all.csv - Click to Download](https://drive.google.com/file/d/1ES10z-PFW_QcRHwZx63NA42c2y1LmVPS/view?usp=sharing) (accidents from 2010-2016) - File was not included in the repository due to the large file size.
 
 The all.CSV must be placed in the "/Resources" directory.
+![Resources_folder](readme_images/resources_folder.png)
 
 **Gmaps API Key requirement**
 
