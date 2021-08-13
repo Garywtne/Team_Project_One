@@ -1,7 +1,6 @@
 # api file
 config.py
 all.csv
-Abz_config.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
