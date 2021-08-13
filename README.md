@@ -45,7 +45,7 @@ For each hypotheses we created a number of [visualisations](#example-header) to 
 ## <a id="example-header"></a>Example Plots
 Here are 2 examples plots we created from the data.
 
-![heatmap](readme_images/accidents_england.png)
+<img src="readme_images/accidents_england.png" width="50%" height="50%"></img>
 ![seaborn_chart](readme_images/VM.png)
 
 The plots can be found in the [/Images](/Images) folder after running the code in the Notebook files that are in the root directory.
