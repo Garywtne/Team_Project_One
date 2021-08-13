@@ -4,10 +4,10 @@
 This is a team based project that explored a traffic accident data set.
 
 
-###  <span style="color:blue;">Contents</span>
+###  <span style="color:blue">Contents</span>
 1. [Dataset](#dataset-header)
 2. Project Outline
-3. Example Plots
+3. <span style="color:blue">Example Plots</span>
 4. Dependencies Required
 5. How to View / Run the code
 6. Which Jupyter Notebooks
