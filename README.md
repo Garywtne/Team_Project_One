@@ -3,8 +3,8 @@
 
 This is a team based project that explored a traffic accident data set.
 
-<span style="color:cyan">
-### Contents
+
+### <span style="color:cyan">Contents</span>
 1. Dataset
 2. Project Outline
 3. Example Plots
@@ -12,7 +12,7 @@ This is a team based project that explored a traffic accident data set.
 5. How to View / Run the code
 6. Which Jupyter Notebooks
 7. Team
-</span>
+
 
 
 ### 1. Dataset
