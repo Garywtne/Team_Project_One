@@ -123,8 +123,8 @@ The Jupyter notebook files have comments in the code and Markdown cells beneath 
 
 ## <a id="team-header"></a>Credits / Collaborators / Team
 
-* Gary W
-* Jessica Uppal
-* Serdar B
-* Arshad Sheikh
-* Abdurrahman Raja
+* [Gary W](https://github.com/Garywtne)
+* [Jessica Uppal](https://github.com/JessicaUppal)
+* [Serdar Bayramov](https://github.com/serdar-bayramov)
+* [Arshad Sheikh](https://github.com/ashsams18)
+* [Abdurrahman Raja](https://github.com/Abzraja)
