@@ -1,10 +1,11 @@
-# Which factors contribute to accident risk?\
+# Which factors contribute to accident risk?
+
 ![Title Image](readme_images/title.jpg)
 
 This is a team based project that explored a traffic accident data set.
 
 
-###  Contents
+##  Contents
 
 * [Dataset](#dataset-header)
 * [Project Outline](#project-header)
@@ -17,7 +18,7 @@ This is a team based project that explored a traffic accident data set.
 
 
 
-### <a id="dataset-header"></a>Dataset
+## <a id="dataset-header"></a>Dataset
 
 We used the UK Road Safety: Traffic Accidents and Vehicles\
 Detailed dataset of road accidents and involved vehicles in the UK (2005-2017).\
@@ -26,7 +27,7 @@ Availble from Kaggle.com
 There are 2 CSV files in this data set. Both CSV files were merged into a single dataframe. The resulting data file extremely large so a decision was made to focus on Years 2010-2016. This data was filtered and placed into a New CSV which is the main data used for all the investigation, analysis and plots.
 
 
-### <a id="project-header"></a>Project Outline
+## <a id="project-header"></a>Project Outline
 
 We decided our client question would be **"which factors contribute to accident risk?"** and used this question to formulate 4 hypotheses and used these to target the data relevant to our hypotheses and attempt to turn that raw data in to **meaningful information**.
 
@@ -37,7 +38,7 @@ We decided our client question would be **"which factors contribute to accident 
 
 For each hypotheses we created a number of visualisations to display the data in an easier to analyse format which helped us understand the information required.
 
-### <a id="example-header"></a>Example Plots
+## <a id="example-header"></a>Example Plots
 Here are 2 examples plots we created from the data.
 
 INSERT PLOTS HERE
@@ -45,9 +46,9 @@ INSERT PLOTS HERE
 The plots can be found in the images folder after running the code.
 
 
-### <a id="reports-header"></a>Findings Reports and Presentation
+## <a id="reports-header"></a>Findings Reports and Presentation
 
-The findings of this project can be found in the "/Presentation" directory.
+The findings of this project can be found in the [/Presentation](Presentation/) directory.
 
 There are 3 files:
 
@@ -55,9 +56,9 @@ There are 3 files:
 * 02_Presentation.pdf
 * 02_Traffic Accidents Report.pdf
 
-### <a id="dependencies-header"></a>Dependencies Required
+## <a id="dependencies-header"></a>Dependencies Required
 
-In order to run the files you will need to install the following packages
+In order to run the files you will need to install the following packages.
 
 * gmaps `pip install gmaps`
 * pandas `pip install pandas`
@@ -66,25 +67,25 @@ In order to run the files you will need to install the following packages
 * scipy `pip install scipy`
 * jupyter notebook `pip install notebook`
 
-**Main Data File Required:**
-**Add this file into your local cloned repository!** 
+**Other Required Files:**
 
-It has not been included in the repository due to the large file size.
+**Add the files into your local cloned repository!** 
 
-all.csv (accidents from 2010-2016) - Download Here: 
+all.csv (accidents from 2010-2016) - Download Here: - File was not included in the repository due to the large file size.
+
 
 **Gmaps API Key requirement**
-
-INSERT IMAGES HERE
 
 For gmaps you will also need an API key from the Google Maps Platform.
 
 The key should be stored in your local repository root folder in a config.py file.
+![config](readme_images/config.png)
 
 The file should contain a variable g_key which contains your Google Maps API key.
+![config](readme_images/api_key.png)
 
 
-### <a id="how-header"></a>How to View / Run the Code
+## <a id="how-header"></a>How to View / Run the Code
 
 The work was completed primarily using Jupyter Notebooks and the modules listed in the Dependencies section.
 
@@ -93,7 +94,7 @@ The work was completed primarily using Jupyter Notebooks and the modules listed 
 The Jupyter notebook files have comments in the code and Markdown cells beneath each step explaining what was done.
 
 
-### <a id="which-header"></a>Which Jupyter Notebooks
+## <a id="which-header"></a>Which Jupyter Notebooks
 
 * notebook 1.ipynb
 * notebook 2.ipynb
@@ -101,7 +102,7 @@ The Jupyter notebook files have comments in the code and Markdown cells beneath 
 
 
 
-### <a id="team-header"></a>Credits / Collaborators / Team
+## <a id="team-header"></a>Credits / Collaborators / Team
 
 Gary W\
 Jessica Uppal\
