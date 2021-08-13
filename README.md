@@ -13,7 +13,8 @@ This is a team based project that explored a traffic accident data set.
 * [Findings Reports and Presentation](#reports-header)
 * [Dependencies and Setup Required](#dependencies-header)
 * [How to View / Run the code](#how-header)
-* [Which Jupyter Notebooks](#which-header)
+* [Jupyter Notebooks File Guide](#which-header)
+* [Repository Structure](#structure-header)
 * [Team](#team-header)
 
 
@@ -83,7 +84,7 @@ The all.CSV must be placed in the "/Resources" directory.
 
 For gmaps you will also need an API key from the [Google Maps Platform](https://developers.google.com/maps). Please visit the Google maps platform to set up an API key if you do not already have one.
 
-1. **File 2:** [config.py](https://drive.google.com/file/d/1dQNAoCH0c7C_d5NYVAebVbOevwE1jWqN/view?usp=sharing) Download the file
+1. **File 2:** [config.py - Click to Download](https://drive.google.com/file/d/1dQNAoCH0c7C_d5NYVAebVbOevwE1jWqN/view?usp=sharing)
 
 2. Open the file in a text editor or VS code and change "YOUR API KEY HERE" to your API key from the Google Maps API.
 ![api](readme_images/api_key.png)
@@ -105,11 +106,18 @@ The work was completed primarily using Jupyter Notebooks and the modules listed 
 The Jupyter notebook files have comments in the code and Markdown cells beneath each step explaining what was done in the cell above.
 
 
-## <a id="which-header"></a>Which Jupyter Notebooks
+## <a id="which-header"></a>Jupyter Notebooks File Guide
 
 * notebook 1.ipynb
 * notebook 2.ipynb
 * notebook 3.ipynb
+
+## <a id="structure-header"></a>Repository Structure
+
+* Notebook code files in the root directory [root/](/)
+* Presentation and report files in the Presentation directory [Presentation/](Presentation/)
+* Image and Plots in the Images directory [Images](Images/)
+* Dataset files in the Resources directory [Resources](Resources/)
 
 
 
