@@ -17,7 +17,7 @@ This is a team based project that explored a traffic accident data set.
 
 
 
-### <a id="#dataset-header"></a>Dataset
+### <a id="dataset-header"></a>Dataset
 
 We used the UK Road Safety: Traffic Accidents and Vehicles\
 Detailed dataset of road accidents and involved vehicles in the UK (2005-2017).\
@@ -26,7 +26,7 @@ Availble from Kaggle.com
 There are 2 CSV files in this data set. Both CSV files were merged into a single dataframe. The resulting data file extremely large so a decision was made to focus on Years 2010-2016. This data was filtered and placed into a New CSV which is the main data used for all the investigation, analysis and plots.
 
 
-### <a id="#project-header"></a>Project Outline
+### <a id="project-header"></a>Project Outline
 
 We decided our client question would be **"which factors contribute to accident risk?"** and used this question to formulate 4 hypotheses and used these to target the data relevant to our hypotheses and attempt to turn that raw data in to **meaningful information**.
 
