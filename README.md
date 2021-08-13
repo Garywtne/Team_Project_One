@@ -7,7 +7,7 @@ This is a team based project that explored a traffic accident data set.
 ###  <span style="color:blue">Contents</span>
 1. [Dataset](#dataset-header)
 2. Project Outline
-3. <span style="color:blue">Example Plots</span>
+3. <span style="color:blue;">Example Plots</span>
 4. Dependencies Required
 5. How to View / Run the code
 6. Which Jupyter Notebooks
@@ -16,7 +16,7 @@ This is a team based project that explored a traffic accident data set.
 
 
 ### <a id="dataset-header"></a>1. Dataset
-We used the UK Road Safety: Traffic Accidents and Vehicles\
+<span style="color:blue;">We</span> used the UK Road Safety: Traffic Accidents and Vehicles\
 Detailed dataset of road accidents and involved vehicles in the UK (2005-2017).\
 Availble from Kaggle.com
 
