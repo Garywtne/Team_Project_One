@@ -81,7 +81,7 @@ In order to run the files you will need to install the following packages.
 
 For gmaps you will also need an API key from the [Google Maps Platform](https://developers.google.com/maps). Please visit the Google maps platform to set up an API key if you do not already have one.
 
-1. [config.py]() Download the file
+1. [config.py](https://drive.google.com/file/d/1dQNAoCH0c7C_d5NYVAebVbOevwE1jWqN/view?usp=sharing) Download the file
 
 2. Open the file in a text editor or VS code and change "YOUR API KEY HERE" to your API key from the Google Maps API.
 ![config](readme_images/api_key.png)
