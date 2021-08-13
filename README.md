@@ -4,7 +4,7 @@
 This is a team based project that explored a traffic accident data set.
 
 
-###  <span style="color:cyan">Contents</span>
+###  <span style="color:blue;">Contents</span>
 1. [Dataset](#dataset-header)
 2. Project Outline
 3. Example Plots
