@@ -4,8 +4,8 @@
 This is a team based project that explored a traffic accident data set.
 
 
-### <span style="color:cyan">Contents</span>
-1. Dataset
+###  Contents
+1. [Dataset](#dataset-header)
 2. Project Outline
 3. Example Plots
 4. Dependencies Required
@@ -15,7 +15,7 @@ This is a team based project that explored a traffic accident data set.
 
 
 
-### 1. Dataset
+### <a id="dataset-header"></a>1. Dataset
 We used the UK Road Safety: Traffic Accidents and Vehicles\
 Detailed dataset of road accidents and involved vehicles in the UK (2005-2017).\
 Availble from Kaggle.com
