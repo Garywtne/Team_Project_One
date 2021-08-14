@@ -32,9 +32,9 @@ There are 2 CSV files in this data set.
 
 Both files should be placed in the Resources/ Directory:
 
-![KaggleData](readme_images/kaggle_data.jpg)
+![KaggleData](readme_images/kaggle_data.PNG)
 
-Both CSV files were merged into a single dataframe. The resulting data file extremely large so a decision was made to focus on Years 2010-2016. This data was filtered and placed into a New CSV which is the main data used for all the investigation, analysis and plots.
+Both CSV files were merged into a single dataframe. The resulting data file was extremely large so a decision was made to focus on Years 2010-2016. This data was filtered and placed into a New CSV [all.CSV](#all-header) which is the main data used for all the investigation, analysis and plots.
 
 
 **Data Limitations**\
@@ -51,6 +51,7 @@ We decided our client question would be **"which factors contribute to accident 
 * **Hypothesis 4: Speed limits do not influence the number of accidents**
 * **Hypothesis 5: Biological factors like gender and age do not influence the number of accidents**
 * **Hypothesis 6: Location on the road or vehicle manoeuvre does not influence the number of accidents**
+* **Hypothesis 7: Poor weather conditions influence the number of accidents**
 
 For each hypotheses we created a number of [visualisations](#example-header) to display the data in an easier to analyse format which helped us understand the information required.
 
@@ -87,7 +88,7 @@ In order to run the files you will need to install the following packages.
 
 **Add the below 2 files into your local cloned repository!** 
 
-* **File 1:** [all.csv - Click to Download](https://drive.google.com/file/d/1ES10z-PFW_QcRHwZx63NA42c2y1LmVPS/view?usp=sharing) (accidents from 2010-2016) - File was not included in the repository due to the large file size.
+* <a id="all-header"></a>**File 1:** [all.csv - Click to Download](https://drive.google.com/file/d/1ES10z-PFW_QcRHwZx63NA42c2y1LmVPS/view?usp=sharing) (accidents from 2010-2016) - File was not included in the repository due to the large file size.
 
 The all.CSV must be placed in the "/Resources" directory.
 ![Resources_folder](readme_images/resources_folder.png)
@@ -119,12 +120,21 @@ The work was completed primarily using Jupyter Notebooks and the modules listed 
 
 The Jupyter notebook files have comments in the code and Markdown cells beneath each step explaining what was done in the cell above.
 
+For a short description of what each notebook contains, please see the [Jupyter Notebooks File Guide](#which-header) section below.
+
 
 ## <a id="which-header"></a>Jupyter Notebooks File Guide
 
-* notebook 1.ipynb
-* notebook 2.ipynb
-* notebook 3.ipynb
+* 01_data_retrieval_step_1.ipynb - Initial data processing and filtering
+* 01_data_retrieval_step_2.ipynb - Initial data processing and filtering
+* 01_data_retrieval_step_3.ipynb - Initial data processing and filtering
+* 02_traffic_vol_vs_accidents.ipynb - Volume of Traffic  vs Number of Accidents
+* 03_When_accidents_happen.ipynb - Days of the week, Time of day, Gender, Age, vs Accidents
+* 04_Where - Heatmaps.ipynb - Google heatmaps of accidents across the UK and accidents in Birmingham
+* 05_RoadSafety.ipynb - Number of Casualties vs Speed limit and Number of Casualties vs Time of day
+* 06_Speed Limit Project - FINAL.ipynb - Number of accidents vs speed limit and Number of Accidents vs Vehicle Manouvre.
+* 07_Accidents By Road Class and Road Type - Number of Accidents by Severity for Road Class and Road Type
+* 08_weather.ipynb - Number of Accidents vs Weather Condition
 
 ## <a id="structure-header"></a>Repository Structure
 
@@ -137,7 +147,7 @@ The Jupyter notebook files have comments in the code and Markdown cells beneath 
 
 ## <a id="team-header"></a>Credits / Collaborators / Team
 
-* [Gary W](https://github.com/Garywtne)
+* [Gary Whitney](https://github.com/Garywtne)
 * [Jessica Uppal](https://github.com/JessicaUppal)
 * [Serdar Bayramov](https://github.com/serdar-bayramov)
 * [Arshad Sheikh](https://github.com/ashsams18)
