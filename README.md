@@ -32,7 +32,7 @@ There are 2 CSV files in this data set.
 
 Both files should be placed in the Resources/ Directory:
 
-![KaggleData](readme_images/kaggle_data.png)
+![KaggleData](readme_images/kaggle_data.PNG)
 
 Both CSV files were merged into a single dataframe. The resulting data file extremely large so a decision was made to focus on Years 2010-2016. This data was filtered and placed into a New CSV which is the main data used for all the investigation, analysis and plots.
 
