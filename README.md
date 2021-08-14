@@ -34,7 +34,7 @@ Both files should be placed in the Resources/ Directory:
 
 ![KaggleData](readme_images/kaggle_data.PNG)
 
-Both CSV files were merged into a single dataframe. The resulting data file extremely large so a decision was made to focus on Years 2010-2016. This data was filtered and placed into a New CSV which is the main data used for all the investigation, analysis and plots.
+Both CSV files were merged into a single dataframe. The resulting data file was extremely large so a decision was made to focus on Years 2010-2016. This data was filtered and placed into a New CSV [all.CSV](#all-header) which is the main data used for all the investigation, analysis and plots.
 
 
 **Data Limitations**\
@@ -87,7 +87,7 @@ In order to run the files you will need to install the following packages.
 
 **Add the below 2 files into your local cloned repository!** 
 
-* **File 1:** [all.csv - Click to Download](https://drive.google.com/file/d/1ES10z-PFW_QcRHwZx63NA42c2y1LmVPS/view?usp=sharing) (accidents from 2010-2016) - File was not included in the repository due to the large file size.
+* <a id="all-header"></a>**File 1:** [all.csv - Click to Download](https://drive.google.com/file/d/1ES10z-PFW_QcRHwZx63NA42c2y1LmVPS/view?usp=sharing) (accidents from 2010-2016) - File was not included in the repository due to the large file size.
 
 The all.CSV must be placed in the "/Resources" directory.
 ![Resources_folder](readme_images/resources_folder.png)
