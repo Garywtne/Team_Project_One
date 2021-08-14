@@ -25,7 +25,17 @@ We used the [UK Road Safety: Traffic Accidents and Vehicles](https://www.kaggle.
 Detailed dataset of road accidents and involved vehicles in the UK (2005-2017).\
 Available from [Kaggle.com](https://www.kaggle.com)
 
-There are 2 CSV files in this data set. Both CSV files were merged into a single dataframe. The resulting data file extremely large so a decision was made to focus on Years 2010-2016. This data was filtered and placed into a New CSV which is the main data used for all the investigation, analysis and plots.
+There are 2 CSV files in this data set. 
+
+* Accident_Information.csv
+* Vehicle_Information.csv
+
+Both files should be placed in the Resources/ Directory:
+
+![KaggleData](readme_images/kaggle_data.jpg)
+
+Both CSV files were merged into a single dataframe. The resulting data file extremely large so a decision was made to focus on Years 2010-2016. This data was filtered and placed into a New CSV which is the main data used for all the investigation, analysis and plots.
+
 
 **Data Limitations**\
 It must be noted that the data was limited in scope. Therefore, despite some interesting findings, the plots extracted from the data although **"true"**, do not **"tell the entire story".**
