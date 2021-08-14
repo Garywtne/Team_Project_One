@@ -51,6 +51,7 @@ We decided our client question would be **"which factors contribute to accident 
 * **Hypothesis 4: Speed limits do not influence the number of accidents**
 * **Hypothesis 5: Biological factors like gender and age do not influence the number of accidents**
 * **Hypothesis 6: Location on the road or vehicle manoeuvre does not influence the number of accidents**
+* **Hypothesis 7: Poor weather conditions influence the number of accidents**
 
 For each hypotheses we created a number of [visualisations](#example-header) to display the data in an easier to analyse format which helped us understand the information required.
 
