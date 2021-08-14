@@ -146,7 +146,7 @@ For a short description of what each notebook contains, please see the [Jupyter 
 
 ## <a id="team-header"></a>Credits / Collaborators / Team
 
-* [Gary W](https://github.com/Garywtne)
+* [Gary Whitney](https://github.com/Garywtne)
 * [Jessica Uppal](https://github.com/JessicaUppal)
 * [Serdar Bayramov](https://github.com/serdar-bayramov)
 * [Arshad Sheikh](https://github.com/ashsams18)
