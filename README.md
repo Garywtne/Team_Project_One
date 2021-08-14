@@ -32,7 +32,7 @@ There are 2 CSV files in this data set.
 
 Both files should be placed in the Resources/ Directory:
 
-![KaggleData](readme_images/kaggle_data.jpg)
+![KaggleData](readme_images/kaggle_data.png)
 
 Both CSV files were merged into a single dataframe. The resulting data file extremely large so a decision was made to focus on Years 2010-2016. This data was filtered and placed into a New CSV which is the main data used for all the investigation, analysis and plots.
 
@@ -119,12 +119,21 @@ The work was completed primarily using Jupyter Notebooks and the modules listed 
 
 The Jupyter notebook files have comments in the code and Markdown cells beneath each step explaining what was done in the cell above.
 
+For a short description of what each notebook contains, please see the [Jupyter Notebooks File Guide](#which-header) section below.
+
 
 ## <a id="which-header"></a>Jupyter Notebooks File Guide
 
-* notebook 1.ipynb
-* notebook 2.ipynb
-* notebook 3.ipynb
+* 01_data_retrieval_step_1.ipynb - Initial data processing and filtering
+* 01_data_retrieval_step_2.ipynb - Initial data processing and filtering
+* 01_data_retrieval_step_3.ipynb - Initial data processing and filtering
+* 02_traffic_vol_vs_accidents.ipynb - Volume of Traffic  vs Number of Accidents
+* 03_When_accidents_happen.ipynb - Days of the week, Time of day, Gender, Age, vs Accidents
+* 04_Where - Heatmaps.ipynb - Google heatmaps of accidents across the UK and accidents in Birmingham
+* 05_RoadSafety.ipynb - Number of Casualties vs Speed limit and Number of Casualties vs Time of day
+* 06_Speed Limit Project - FINAL.ipynb - Number of accidents vs speed limit and Number of Accidents vs Vehicle Manouvre.
+* 07_Accidents By Road Class and Road Type - Number of Accidents by Severity for Road Class and Road Type
+* 08_weather.ipynb - Number of Accidents vs Weather Condition
 
 ## <a id="structure-header"></a>Repository Structure
 
